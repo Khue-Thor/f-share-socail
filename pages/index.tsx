@@ -4,6 +4,7 @@ import { Video } from '@/types'
 import VideoCard from '@/components/VideoCard'
 import NoResults from '@/components/NoResults'
 
+
 interface IProps {
   videos: Video[]
 }
