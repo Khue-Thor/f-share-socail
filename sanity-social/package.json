@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
+  "author": "Khuephamy Phialoung",
   "license": "UNLICENSED",
   "scripts": {
     "dev": "sanity dev",
@@ -20,7 +21,7 @@
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "sanity": "^3.10.0",
-    "styled-components": "^5.3.9"
+    "styled-components": "^5.3.9",
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^2.0.1",
